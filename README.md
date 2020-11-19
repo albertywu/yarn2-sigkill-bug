@@ -8,13 +8,17 @@ When running `yarn <cmd>` where `cmd` is defined in `package.json` scripts, proc
 ### Repro
 
 Failing case:
+```
 (
   cd yarn2-bug
   ./repro.sh
 )
+```
 
 Passing case:
+```
 (
   cd yarn1-working
   ./repro.sh
 )
+```
