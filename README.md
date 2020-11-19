@@ -7,6 +7,8 @@ When running `yarn <cmd>` where `cmd` is defined in `package.json` scripts, proc
 
 ### Repro
 
+run from root directory of project:
+
 Failing case:
 ```
 (
