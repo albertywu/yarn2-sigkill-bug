@@ -1,0 +1,12 @@
+{
+  "name": "yarn2-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "sleep": "sleep 1000"
+  },
+  "workspaces": [
+    "yarn2-bug"
+  ]
+}

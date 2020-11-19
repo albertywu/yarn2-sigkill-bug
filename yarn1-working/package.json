@@ -1,0 +1,8 @@
+{
+  "name": "yarn1-working",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "sleep": "sleep 1000"
+  }
+}
